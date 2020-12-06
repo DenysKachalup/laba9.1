@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\AP\LABAP\9\laba9.1B\laba9.1B\Source.cpp(166,7): warning C4101: special: неиспользованная локальная переменная
+D:\AP\LABAP\9\laba9.1B\laba9.1B\Source.cpp(165,6): warning C4101: kurs: неиспользованная локальная переменная
+  laba9.1B.vcxproj -> D:\AP\LABAP\9\laba9.1B\Debug\laba9.1B.exe
